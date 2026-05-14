@@ -252,3 +252,7 @@ terraform destroy
 - [Grafana Documentation](https://grafana.com/docs/)
 - [Node Exporter Guide](https://prometheus.io/docs/guides/node-exporter/)
 - [Nirvana Labs Documentation](https://docs.nirvanalabs.io)
+
+## License
+
+Apache 2.0 — see [LICENSE](LICENSE.md).
